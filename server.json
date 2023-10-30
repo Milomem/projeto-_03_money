@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Comida",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 60,
+      "createdAt": "2022-07-29T19:40:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:26:44.505Z"
+    },
+    {
+      "description": "App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-10-29T20:15:31.485Z",
+      "id": 4
+    },
+    {
+      "description": "Banana",
+      "price": 10,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2023-10-29T20:34:04.920Z",
+      "id": 5
+    }
+  ]
+}
